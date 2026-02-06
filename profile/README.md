@@ -1,4 +1,4 @@
-# 🚗 CarWaree
+# 🚗 CarWare
 
 CarWaree is a smart vehicle service management system designed to simplify car maintenance for owners.
 
