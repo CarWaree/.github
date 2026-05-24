@@ -18,7 +18,7 @@ It allows users to book maintenance appointments, track service history, and com
 - **Marwan Mohamed** – Moblie Developer | Security Specialist
 - **Menna Ahmed** – UI/UX Designer | Frontend Developer
 - **Habiba Mohamed** – UI/UX Designer | Frontend Developer
-- **Abdo Mohamed** – Backend Developer
+- **Abdo Mohamed** – Backend Developer | Software Tester
 - **Fatma Ahmed** – Backend Developer
 - **Abeer Reda** – Backend Developer
 
